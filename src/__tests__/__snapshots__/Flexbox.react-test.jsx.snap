@@ -144,7 +144,7 @@ exports[`Renders <Flexbox /> with extra props, outside expected/defined ones (li
 
 exports[`Renders <Flexbox /> with extra props, outside expected/defined ones (like event handlers or className) 2`] = `
 <div
-  className="test-class sc-bdVaJa cXgeQK"
+  className="sc-bdVaJa cXgeQK test-class"
   id="test-id"
   onClick={[Function]}
 />
